@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\SBB3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1045787964.index
+324777473.index
+1150045967.index
+2494686594.index
+2517749336.index
+1170705700.index
+439066843.index
